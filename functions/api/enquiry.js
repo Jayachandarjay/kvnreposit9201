@@ -14,7 +14,7 @@
  *   DB                  (optional D1 binding) enquiries are also saved if bound (see db/schema.sql)
  */
 
-const DEFAULT_TO = 'jayachandar1j@gmail.com';
+const DEFAULT_TO = 'kvnconstructionsinfo10';
 const SUBJECT = 'New Website Enquiry \u2013 KVK Construction';
 const MAX = { name: 100, email: 254, phone: 20, company: 120, message: 3000 };
 const MIN_FILL_MS = 2500; // humans need a moment to fill a form; bots post instantly
